@@ -1,0 +1,47 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Geospatial
+geopandas
+shapely
+geopy
+
+# Visualization
+streamlit
+plotly
+folium
+streamlit-folium
+
+# Machine Learning
+xgboost
+lightgbm
+catboost
+joblib
+imbalanced-learn
+
+# Utilities
+requests==2.28.1
+tqdm
+nbformat
+
+# Climate/Niche Tools
+pythermalcomfort
+climate_indices
+
+# NLP (lite)
+beautifulsoup4==4.11.1
+spacy>=3.7.0
+textblob==0.15.3
+nltk
+gensim
+langdetect
+vaderSentiment
+textstat
+
+# Removed: en-core-web-sm, bertopic[all], lxml[html_clean], transformers, selenium, AWS SDK
+# For Summarization Feature
+summa
